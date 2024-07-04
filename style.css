@@ -1,0 +1,12 @@
+#section1 {
+  background-image: url("hero.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  margin-bottom: 4px;
+}
+p {
+  width: 300px;
+}
